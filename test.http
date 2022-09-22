@@ -14,7 +14,7 @@ Content-Type: application/json
 }
 
 ### Get category by Id
-GET http://localhost:3000/api/categories/2
+GET http://localhost:3000/api/categories/4
 X-API-Key: RAHASIA
 Accept: application/json
 
